@@ -4,7 +4,6 @@
 
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:ff3c00,100:0a0a0a&height=200&section=header&text=VAIBHAV&fontSize=90&fontColor=ffffff&fontAlignY=38&desc=BUILDER.%20CREATOR.%20DEVELOPER.&descSize=18&descAlignY=60&descAlign=50&animation=fadeIn&fontAlign=50" />
 
 </div>
@@ -13,14 +12,14 @@
 
 <div align="center">
 
-<!-- TYPING SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=28&duration=2800&pause=800&color=FF3C00&center=true&vCenter=true&width=600&lines=FULL+STACK+DEVELOPER;MOBILE+APP+BUILDER;SHORT+FILM+MAKER;DSA+LEARNER;JUST+DO+IT." alt="Typing SVG" />
 
 </div>
 
 <br/>
 
-<!-- ABOUT ME - BOLD BLOCK LAYOUT -->
+---
+
 <table>
 <tr>
 <td width="55%">
@@ -51,7 +50,6 @@
 
 ---
 
-<!-- ANIMATED DIVIDER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF3C00&height=3"/>
 
 ## ◼ TECH STACK
@@ -90,44 +88,20 @@
 
 ## ◼ FEATURED BUILDS
 
-<table>
-<tr>
+> Projects below are **auto-fetched from GitHub** — sorted by stars, live data, no manual updates needed.
 
-<td width="50%" valign="top">
+<div align="center">
 
-### 🔴 CINC
-**Private Cinema, Synchronized.**
-Zero-latency video sync for two people — anywhere in the world. Built on CDN-based independent streaming + Socket.IO control signals.
-`WebRTC` `Socket.IO` `React` `Node.js`
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vaibhavcodeswell&repo=classiefy&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=FF3C00&icon_color=FF3C00&text_color=ffffff)](https://github.com/Vaibhavcodeswell?tab=repositories)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vaibhavcodeswell&repo=crap-for-you&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=FF3C00&icon_color=FF3C00&text_color=ffffff)](https://github.com/Vaibhavcodeswell?tab=repositories)
 
----
+</div>
 
-### 🔴 CLASSIEFY
-**Your Smart Student Companion.**
-AI-powered timetable import via OCR, class reminders, attendance tracking, and assignment management.
-`React Native` `Expo` `SQLite` `Gemini AI`
+<div align="center">
 
-</td>
+**[→ VIEW ALL REPOS SORTED BY STARS ←](https://github.com/Vaibhavcodeswell?tab=repositories&sort=stargazers)**
 
-<td width="50%" valign="top">
-
-### 🔴 CRAP
-**Study Group Platform.**
-Collaborative sessions with live timer, real-time chat, and live user tracking.
-`Node.js` `MongoDB` `Socket.IO`
-🔗 [crap-for-you.onrender.com](https://crap-for-you.onrender.com)
-
----
-
-### 🔴 VAIBHAV'S LAB
-**Personal App Store.**
-Centralized hub to showcase and distribute all built apps with ratings, updates, and direct downloads.
-`React` `Node.js` `Vercel`
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
@@ -165,14 +139,12 @@ Centralized hub to showcase and distribute all built apps with ratings, updates,
 
 ---
 
-<!-- FOOTER WAVE -->
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:FF3C00,100:0a0a0a&height=120&section=footer&text=CONSISTENCY+BEATS+MOTIVATION.&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
 
 </div>
 
-<!-- Profile Views -->
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Vaibhavcodeswell&label=PROFILE+VIEWS&color=FF3C00&style=for-the-badge" />
 </div>
